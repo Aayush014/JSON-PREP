@@ -2,6 +2,8 @@
 
 This project demonstrates JSON data handling in Dart using factory constructors. It includes a console application that prompts the user to input a project ID and then displays the details of the project members associated with that ID.
 
+JSON stands for **JavaScript Object Notation**, a lightweight data interchange format that is easy for humans to read and write and easy for machines to parse and generate.
+
 ## Project Overview
 
 This project showcases how to efficiently work with JSON data in Dart applications. By providing a user-friendly interface via the console, users can easily retrieve information about project members based on their project ID. The project aims to demonstrate best practices for deserializing JSON data into Dart objects and serializing Dart objects back into JSON format.
